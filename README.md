@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thamindu Senanyake</h1>
-<h3 align="center">🚀 Passionate Software Engineering Student | Aspiring AI Enthusiast | Building Secure, Scalable Solutions</h3>
+<h3 align="center">🚀 Passionate Software Engineering Student | Building Secure, Scalable Solutions</h3>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ftthadiya&label=Profile%20views&color=0e75b6&style=flat" alt="ftthadiya" /> 
@@ -9,15 +9,15 @@
    I'm a Software Engineering student at <strong>Curtin University</strong>, specializing in Java, C, C++, and the <strong>MERN</strong> stack. I'm driven by a passion for crafting secure, scalable applications and exploring the world of <strong>AI</strong>.
 </p>
 
-- 🌱 Currently mastering **software engineering fundamentals at Curtin University**
+- 🌱 Currently Studing **bachelor of software engineer at Curtin University**
 
 - 👨‍💻 Discover my projects on [GitHub](https://github.com/FTthadiya)
 
-- 💬 Chat with me about **React, Java, or AI Development**
+- 💬 Chat with me about **React, Java**
 
 - 📫 Reach out via **thamindusenanayake@gmail.com**
 
-- 📄 Peek into my [experience](https://drive.google.com/file/d/1FBBYOy1r24EMWO2db3-GQd-ny0-Z507C/view?usp=sharing)
+- 📄 Peek into my [Résumé](https://drive.google.com/file/d/1FBBYOy1r24EMWO2db3-GQd-ny0-Z507C/view?usp=sharing)
 
 ---
 
