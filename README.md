@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thamindu Senanyake</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&center=true&vCenter=true&width=940&lines=Hi+I+am+Thamindu+Senanayake;Developer+%7C+Tech+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&center=true&vCenter=true&width=940&lines=Hi,+I'+am+Thamindu+Senanayake;Developer+%7C+Tech+Enthusiast+Gamer+%7C;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Passionate Software Engineering Student | Building Secure, Scalable Solutions</h3>
