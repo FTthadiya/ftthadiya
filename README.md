@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thamindu Senanyake</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Dimantha+Kaveen+%28KaviYa%29;Hi%2C+I+am+Thamindu+Senanayake;Java+%7C+Game+Developer+%7C+Tech+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">🚀 Passionate Software Engineering Student | Building Secure, Scalable Solutions</h3>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ftthadiya&label=Profile%20views&color=0e75b6&style=flat" alt="ftthadiya" /> 
