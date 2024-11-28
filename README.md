@@ -20,7 +20,7 @@
 
 - 📫 Reach out via **thamindusenanayake@gmail.com**
 
-- 📄 Peek into my [Résumé](https://drive.google.com/file/d/1cs5B1fXpZNl4aSj0AelHwV87QBAWsx6C/view?usp=sharing)
+- 📄 Peek into my [Résumé](https://drive.google.com/file/d/1k7-nz8-GTSe2j1A3zB_1zJwyPAXniroG/view?usp=sharing)
 
 ---
 
