@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-   I'm a Software Engineering student at <strong>Curtin University</strong>, specializing in Java, C, C++, and the <strong>MERN</strong> stack. I'm driven by a passion for crafting secure, scalable applications and exploring the world of <strong>AI</strong>.
+  Software Engineer and graduate of <strong>Curtin University</strong>, with expertise in Java, C, C++, and the <strong>MERN</strong> stack. Passionate about building secure, scalable systems and exploring innovative solutions in <strong>AI</strong>.
 </p>
 
 - 🌱 Currently Studing **bachelor of software engineer at Curtin University**
